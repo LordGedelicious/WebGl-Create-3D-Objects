@@ -27,8 +27,6 @@ Isi direktori adalah sebagai berikut:
 README.md
 ```
 
-Dataset yang digunakan hanya menggunakan sklearn.datasets.load_iris() dan sklearn.datasets.load_wine()
-
 ## Penggunaan
 1. Buka direktori `src`
 2. Copy path dari `index.html`
